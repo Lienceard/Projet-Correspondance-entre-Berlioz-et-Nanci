@@ -1,3 +1,5 @@
+Se référer à l'issue #3 (https://github.com/Lienceard/TNAH-2021-Projet-Correspondance-Berlioz/issues/3) pour plus d'informations.
+
 | ID | Date            | Url                                                          | Identifiant                 | Personne en charge | Nombre estimé de lignes | Nombre d'images | Segmentation | Transcription | Relecture | Validation |
 |----|-----------------|--------------------------------------------------------------|-----------------------------|--------------------|-------------------------|-----------------|--------------|---------------|-----------|------------|
 | 1  | 4 novembre 1823 | https://gallica.bnf.fr/ark:/12148/btv1b53031016k?rk=236052;4 | ark:/12148/btv1b53031016k   | Lien               | 36                      | 3               | -            | -             | -         | -          |
