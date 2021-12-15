@@ -11,7 +11,5 @@
 	- Les images de la lettre, réunies dans un fichier unique nommé : “LettreID_JJ-MM-AAAA”.
 	- Un sous dossier nommé “transcriptions_brutes” avec dedans les transcriptions brutes d’eScriptorium (afin de rendre compte du travail de transcription réalisé, ainsi que de l’efficacité initiale du modèle utilisé).
 		- Ces transcriptions brutes seraient nommées : “LettreID_JJ-MM-AAAA_transcriptionBrute_numéroDImage”.
-
-**Une fois la transcription définitivement terminée et corrigée :**
-
+	**Une fois la transcription définitivement terminée et corrigée :**
 	- Les transcriptions au format ALTO nommées “LettreID_JJ-MM-AAAA_ALTO_numéroDImage”.
