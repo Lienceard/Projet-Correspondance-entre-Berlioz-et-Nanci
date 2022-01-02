@@ -25,10 +25,13 @@ Ces transcriptions fidèles des lettres pourront permettre une réutilisation si
 - L'orthographe ancienne est laissée telle quelle. 
 - Aucune restitution des accents manquants. Aucune correction des accents fautifs.  
 - Aucune restitution des traits-d'unions manquants.
-- Séparation des mots collés dès lors que la ligature entre ces mots semble due à la rapidité de l'écriture. 
+- Séparation des mots collés dès lors que la ligature entre ces mots semble due à la rapidité de l'écriture.
 
 **Abréviations :**
 - Aucune restitution des abréviations. 
+
+**Mots en exposant :**
+- Restition seulement du mot sans le mettre en exposant.
 
 **Majuscules et minuscules :**
 -  Aucune restitution des majuscules, même lorsqu'elles sont absentes en début de phrase ou de nom propre.    
