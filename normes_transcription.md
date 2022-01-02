@@ -31,7 +31,7 @@ Ces transcriptions fidèles des lettres pourront permettre une réutilisation si
 - Aucune restitution des abréviations. 
 
 **Mots en exposant :**
-- Restition seulement du mot sans le mettre en exposant.
+- Restitution seulement du mot sans le mettre en exposant.
 
 **Majuscules et minuscules :**
 -  Aucune restitution des majuscules, même lorsqu'elles sont absentes en début de phrase ou de nom propre.    
