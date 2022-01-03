@@ -28,7 +28,8 @@ Ces transcriptions fidèles des lettres pourront permettre une réutilisation si
 - Séparation des mots collés dès lors que la ligature entre ces mots semble due à la rapidité de l'écriture.
 
 **Abréviations :**
-- Aucune restitution des abréviations. 
+- Aucune resolution d'abréviation.
+- Le symbole monétaire de la livre tournois (₶, unicode U+20B6)
 
 **Mots en exposant :**
 - Restitution seulement du mot sans le mettre en exposant.
