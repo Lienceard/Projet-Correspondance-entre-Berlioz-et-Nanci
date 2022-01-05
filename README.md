@@ -39,7 +39,7 @@ Ce dépôt est organisé de la manière suivante :
 3. Un README de présentation du projet (le présent fichier).
 4. Un [fichier](https://github.com/Lienceard/TNAH-2021-Projet-Correspondance-Berlioz/blob/main/choix_exports_et_conventions_de_nommage.md) qui présente les choix d'exports et les conventions de nommage que nous avons adoptés.
 5. Un [tableau de gestion](https://github.com/Lienceard/TNAH-2021-Projet-Correspondance-Berlioz/blob/main/tableau_de_gestion.md) qui récapitule les lettres transcrites, leurs liens vers Gallica. Il permet également une gestion et une visualisation des étapes du projet.
-6. Un [fichier]() qui récapitule les normes de transcription que nous avons adoptées.
+6. Un [fichier](https://github.com/Lienceard/TNAH-2021-Projet-Correspondance-Berlioz/blob/main/normes_transcription.md) qui récapitule les normes de transcription que nous avons adoptées.
 
 ## Etat du projet
 
