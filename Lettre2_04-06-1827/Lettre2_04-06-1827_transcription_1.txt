@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 (a chère Saur
 Gout en ayant l'au de ny par CoucherCid m ecrne d.
 temper en teuxs dont teltrer Charnitutos qui su enbarrasdit fort
@@ -17,3 +18,24 @@ et re fait achever pu lettre.3.. at.
 &achere douc, cin Hyte, bourgeou .
 Dabord et rue Fant, rendu, compte à papa du Ses commissions.
 M Baillère s à donné le Cayezo soy janvier) qut) cussie
+=======
+Ma chère Sœur
+Tout en ayant l'air de n'y pas toucher tu m'ecris de
+temps en temps des lettres charmantes, qui m'embarrassent fort,
+quand il faut y répondre ; je suis si préoccuppé Ω par
+Ω mon travail et par mille idées qui fermentent dans ma
+tête, que je suis tout a fait impropre au style gracieux
+et affectueux dont tu te sera envers moi. J'essayerois vainement
+de le prendre ; si je veux le tenter, je commence par reflechir
+un peu, puis a arracher quelques barbes de ma plume, comme
+on fait en pareil cas, ensuite a appuyer ma tête sur ma
+main, a rêver, et enfin Ω a oublier que je t'écris ; je resterois
+quelques fois longtemps dans cet etat, sans les oscillations du
+pendule de mon horloge, qui se faisait remarquer dans un
+instant ou la preoccuppation est moins forte, me font jetter
+les Ω yeux sur l'aiguille, qui me rappelle l'heure de la poste
+et me fait achever ma lettre.
+J'acheve donc, en style bourgeois.
+D abord il me faut  rendre compte a papa de ses commissions.
+M Baillère m'a donné le cayer de janvier que j'envoie
+>>>>>>> 21df8696a420b9211e4c8fca3c84c41f28029316
