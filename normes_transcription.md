@@ -28,14 +28,17 @@ Ces transcriptions fidèles des lettres pourront permettre une réutilisation si
 - Séparation des mots collés dès lors que la ligature entre ces mots semble due à la rapidité de l'écriture.
 
 **Abréviations :**
-- Aucune resolution d'abréviation.
+- Aucune résolution d'abréviation.
 - Le symbole monétaire de la livre tournois (₶, unicode U+20B6)
 
 **Mots en exposant :**
 - Restitution seulement du mot sans le mettre en exposant.
 
 **Majuscules et minuscules :**
--  Aucune restitution des majuscules, même lorsqu'elles sont absentes en début de phrase ou de nom propre.    
+-  Aucune restitution des majuscules, même lorsqu'elles sont absentes en début de phrase ou de nom propre.
+
+**Accentuation :**
+- Restitution de l'accentuation d'origine, sauf si nous considèrons que c'est une varition de la graphie due à la rapidité de l'écriture.
 
 **Ponctuation :**
 - Aucune restitution de la ponctuation manquante. Aucune correction de la ponctuation fautive. 
