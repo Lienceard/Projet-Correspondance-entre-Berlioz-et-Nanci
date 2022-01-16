@@ -23,13 +23,13 @@ Ces transcriptions fidèles des lettres pourront permettre une réutilisation si
 **Orthographe :**
 - Aucune modification opérée sur l'orthographe, même en présence de fautes.
 - L'orthographe ancienne est laissée telle quelle. 
-- Aucune restitution des accents manquants. Aucune correction des accents fautifs.  
-- Aucune restitution des traits-d'unions manquants.
+- Aucune restitution des accents manquants. Aucune correction des accents fautifs. Restitution de la bonne graphie de l'accent, lorsque nous considérons qu'il y a une variation de la graphie de celui-ci à cause de la rapidité d'écriture.   
+- Aucune restitution des traits d'union manquants.
 - Séparation des mots collés dès lors que la ligature entre ces mots semble due à la rapidité de l'écriture.
 
 **Abréviations :**
 - Aucune résolution d'abréviation.
-- Le symbole monétaire de la livre tournois (₶, unicode U+20B6)
+- Utilisation du symbole monétaire de la livre tournois → **₶** (Unicode U+20B6).
 
 **Mots en exposant :**
 - Restitution seulement du mot sans le mettre en exposant.
@@ -37,23 +37,20 @@ Ces transcriptions fidèles des lettres pourront permettre une réutilisation si
 **Majuscules et minuscules :**
 -  Aucune restitution des majuscules, même lorsqu'elles sont absentes en début de phrase ou de nom propre.
 
-**Accentuation :**
-- Restitution de l'accentuation d'origine, sauf si nous considèrons que c'est une varition de la graphie due à la rapidité de l'écriture.
-
 **Ponctuation :**
 - Aucune restitution de la ponctuation manquante. Aucune correction de la ponctuation fautive. 
 - Emploi du tiret cadratin (—, unicode U+2014) de part et d'autre d'une incise. 
-- Emploi du tiret demi-cadratin (– , unicode U+2013) pour marquer le changement d’interlocuteur dans les dialogues et devant les éléments des listes/ énumérations.
+- Emploi du tiret demi-cadratin (–, unicode U+2013) pour marquer le changement d’interlocuteur dans les dialogues et devant les éléments des listes/ énumérations.
 
 ### Éléments lisibles et illisibles : 
 
-**Attention :** un "passage" correspond à deux mots minimums. 
+**Attention :** un "passage" correspond à deux mots minimum. 
 
 **Attention :** le système d'écriture grec a été retenu pour marquer les particularités d'un certain nombre d'éléments. 
 
 * **Éléments lisibles avec particularités :**
 
-  * **Mot ou passage souligné :** Représentation du soulignement à l'aide du caractère grec majuscule Xi (Unicode : U+039E) de la manière suivante → **ΞmotSoulignéΞ ; Ξpassage soulignéΞ** (exemple : si le passage **mon oeuvre** est souligné, cela sera transcrit **Ξmon oeuvreΞ**). 
+  * **Mot ou passage souligné :** Représentation du soulignement à l'aide du caractère grec majuscule Xi (Unicode : U+039E) de la manière suivante → **ΞmotSoulignéΞ, Ξpassage soulignéΞ** (exemple : si le passage **mon oeuvre** est souligné, cela sera transcrit **Ξmon oeuvreΞ**). 
   
     **Attention :** nous ne marquons pas de distinction entre le soulignement simple et le soulignement multiple.
 
@@ -76,7 +73,7 @@ Ces transcriptions fidèles des lettres pourront permettre une réutilisation si
 
   * **Mot ou passage manquant :** Aucune restitution, même si grâce au contexte, le mot ou le passage peut être deviné. 
 
-    **Attention :** un "mot ou passage manquant" peut être lié à une omission de l'auteur, ou à une détérioration du manuscrit (passage déchiré par exemple). Il est difficile de déterminer, dans ce cas-ci, le nombre de lettres/ mots manquants. Nous avons donc décider d'utiliser une unique règle pour représenter ces manques.
+    **Attention :** un "mot ou passage manquant" peut être lié à une omission de l'auteur, ou à une détérioration du manuscrit (passage déchiré par exemple). Il est difficile de déterminer, dans ce cas-ci, le nombre de lettres/ mots manquants. Nous avons donc décidé d'utiliser une unique règle pour représenter ces manques.
 
     Les mots/ passages manquants sont représentés à l'aide du caractère grec Pi minuscule (Unicode : U+03C0): **π**.
 
@@ -91,5 +88,5 @@ Ces transcriptions fidèles des lettres pourront permettre une réutilisation si
 - Ne pas transcrire les informations ajoutées *a posteriori*, présentes au bas des lettres manuscrites.
 
 **Éléments indéterminés :**
-- Tous les éléments dont nous n'avons pas réussi à interpréter/ comprendre l'usage, n'ont pas été restitués. Se référer aux images pdf pour les voir. 
+- Tous les éléments dont nous n'avons pas réussi à interpréter/ comprendre l'usage n'ont pas été restitués. Se référer aux images PDF pour les voir. 
 (Par ex : sorte de signature sur les feuillets contenant la vedette). 
