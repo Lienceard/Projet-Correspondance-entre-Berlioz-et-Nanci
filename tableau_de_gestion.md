@@ -1,4 +1,4 @@
-Se référer à l'issue #3 (https://github.com/Lienceard/TNAH-2021-Projet-Correspondance-Berlioz/issues/3) pour plus d'informations.
+Se référer à l'issue #3 pour plus d'informations.
 
 | ID | Date            | Url                                                          | Identifiant                 | Personne en charge | Nombre estimé de lignes | Nombre d'images | Segmentation | Transcription | Relecture | Validation |
 |----|-----------------|--------------------------------------------------------------|-----------------------------|--------------------|-------------------------|-----------------|--------------|---------------|-----------|------------|
