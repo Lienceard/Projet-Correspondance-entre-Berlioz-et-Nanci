@@ -1,5 +1,7 @@
 # Projet de transcription de la correspondance active de Hector Berlioz à sa sœur Nanci Berlioz
 
+[![DOI](https://zenodo.org/badge/433904174.svg)](https://zenodo.org/badge/latestdoi/433904174)
+
 ## Contexte
 Ce projet a été créé dans le cadre du module Git dispensé par [M.Thibault Clérice](https://github.com/PonteIneptique) pour le master 2 TNAH (Technologies Numériques Appliquées à l'Histoire) de l'École nationale des chartes, pour l'année 2021-2022.
 
