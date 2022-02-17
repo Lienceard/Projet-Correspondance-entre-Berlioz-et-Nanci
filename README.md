@@ -19,11 +19,9 @@ Les vérités de terrain produites par ce projet pourraient servir par la suite 
 
 Pour l'alignement, la transcription, la gestion de projet, les corrections :
 
-[Ceard Lien](https://github.com/Lienceard)
-
-[Lebreton Fanny](https://github.com/FannyLbr)
-
-[Sajdak Cécile](https://github.com/SjdkC)
+- [Ceard Lien](https://github.com/Lienceard)
+- [Lebreton Fanny](https://github.com/FannyLbr)
+- [Sajdak Cécile](https://github.com/SjdkC)
 
 
 ## Architecture du dépôt

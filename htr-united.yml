@@ -1,0 +1,67 @@
+schema: "https://htr-united.github.io/schema/2021-10-15/schema.json"
+title: Projet Correspondance Berlioz
+url: 'https://github.com/PSL-Chartes-HTR-Students/TNAH-2021-Projet-Correspondance-Berlioz'
+project-name: >
+    ENC - Bonnes pratiques du developpement collaboratif'
+
+authors:
+    - name: 'Céard'
+      surname: 'Lien'
+      roles:
+      - 'transcriber'
+    - name: 'Sajdak'
+      surname: 'Cécile'
+      roles:
+      - 'transcriber'
+    - name: 'Lebreton'
+      surname: 'Fanny'
+      roles:
+      - 'transcriber'
+description: >
+  Nous avons choisi de travailler sur la correspondance active de Hector Berlioz adressée à sa sœur Anne-Marguerite "Nanci" Berlioz. L’ensemble des lettres adressées à Nanci Berlioz représentait un volume trop important pour notre projet, aussi nous les avons sélectionnées, par souci de cohérence, selon un ordre chronologique (voir le tableau de gestion) pour la liste exacte des lettres transcrites).
+language:
+  - fra
+script: 
+  - Latn
+script-type: 'only-manuscript'
+time: 
+  notBefore: "1823"
+  notAfter: "1844"
+hands: 
+  count: '1'
+  precision: 'exact'
+license:
+  - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+format: 'Alto-XML'
+citation-file-link: 'https://raw.githubusercontent.com/PSL-Chartes-HTR-Students/TNAH-2021-Projet-Correspondance-Berlioz/main/CITATION.cff'
+transcription-guidelines: >
+    **Orthographe :**
+    - Aucune modification opérée sur l'orthographe, même en présence de fautes.
+    - L'orthographe ancienne est laissée telle quelle. 
+    - Aucune restitution des accents manquants. Aucune correction des accents fautifs. Restitution de la bonne graphie de l'accent, lorsque nous considérons qu'il y a une variation de la graphie de celui-ci à cause de la rapidité d'écriture.   
+    - Aucune restitution des traits d'union manquants.
+    - Séparation des mots collés dès lors que la ligature entre ces mots semble due à la rapidité de l'écriture.
+    
+    **Abréviations :**
+    - Aucune résolution d'abréviation.
+    - Utilisation du symbole monétaire de la livre tournois → **₶** (Unicode U+20B6).
+    
+    **Mots en exposant :**
+    - Restitution seulement du mot sans le mettre en exposant.
+    
+    **Majuscules et minuscules :**
+    -  Aucune restitution des majuscules, même lorsqu'elles sont absentes en début de phrase ou de nom propre.
+    
+    **Ponctuation :**
+    - Aucune restitution de la ponctuation manquante. Aucune correction de la ponctuation fautive. 
+    - Emploi du tiret cadratin (—, unicode U+2014) de part et d'autre d'une incise. 
+    - Emploi du tiret demi-cadratin (–, unicode U+2013) pour marquer le changement d’interlocuteur dans les dialogues et devant les éléments des listes/ énumérations.
+volume:
+    - count: 367
+      metric: "lines"
+    - count: 16
+      metric: "files"
+    - count: 64
+      metric: "regions"
+    - count: 13474
+      metric: "characters"
